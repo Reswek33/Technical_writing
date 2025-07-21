@@ -108,15 +108,3 @@ Code examples and visuals.
 ## License  
 MIT © YourName  
 ```
-
----
-
-**Key Takeaway**: A great README answers:  
-1. **What** is this?  
-2. **How** do I use it?  
-3. **How** can I help?  
-Use clear sections, Markdown formatting, and visuals to make it accessible!  
-
-🔗 **Resources**:  
-- [Markdown Guide](https://www.markdownguide.org/)  
-- [Awesome README Templates](https://github.com/othneildrew/Best-README-Template)
